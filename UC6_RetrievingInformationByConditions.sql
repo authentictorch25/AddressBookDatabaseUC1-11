@@ -1,0 +1,1 @@
+select * from address_book where City = 'Shimla' or State = 'Haryana';

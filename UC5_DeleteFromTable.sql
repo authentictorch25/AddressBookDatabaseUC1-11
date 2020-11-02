@@ -1,0 +1,1 @@
+delete from address_book where FirstName='Manoj' and LastName='Kumar';

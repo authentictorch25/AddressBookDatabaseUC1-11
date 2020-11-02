@@ -1,0 +1,1 @@
+select * from address_book where City='Kurukshetra' order by FirstName+LastName;
